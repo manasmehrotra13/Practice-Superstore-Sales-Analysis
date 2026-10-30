@@ -23,3 +23,7 @@ Power BI, DAX.
 
 ## What I learned
 Loading and shaping data in Power BI, writing basic DAX measures, and building cards, charts, maps and filters.
+
+---
+
+Part of my **guided practice projects** (2024, before my internship). [See all my practice repos](https://github.com/manasmehrotra13?tab=repositories&q=Practice&sort=name) · [Back to my profile](https://github.com/manasmehrotra13)
